@@ -1,2 +1,2 @@
-# Python - Week 1 - Basics
-Week 1: Introduction to Python Programming
+# Ppython-month1-basics
+Month 1 projects – Python basics, NumPy, Pandas, and Data Visualization
